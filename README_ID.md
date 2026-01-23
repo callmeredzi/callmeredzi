@@ -138,7 +138,7 @@
 
   <!-- Streak Stats -->
   <a href="https://github.com/callmeredzi">
-    <img src="https://streak-stats.demolab.com?user=callmeredzi&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF6600&currStreakLabel=00FF00" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=callmeredzi&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF6600&currStreakLabel=00FF00" alt="GitHub Streak" />
   </a>
 
 </div>
