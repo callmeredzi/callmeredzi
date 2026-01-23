@@ -14,7 +14,7 @@
   <img src="assets/img/logo.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #ff3333; box-shadow: 0 0 25px rgba(255, 51, 51, 0.4);" alt="Logo Hedwig Adityas" />
 
   <h1 style="font-size: 2.5em; margin-bottom: 0;">Hedwig Adityas. <small style="font-size: 0.5em; color: #8b949e;">A.Md.Kom</small></h1>
-  <h3 style="color: #6e7681; margin-top: 0;">Jurusan Komputerisasi Akuntansi</h3>
+  <h3 style="color: #6e7681; margin-top: 0;">D3 Komputerisasi Akuntansi</h3>
 
   <!-- Dynamic Typing Effect (Versi Indo) -->
   <a href="https://git.io/typing-svg">
@@ -124,21 +124,21 @@
   
   <!-- GitHub Stats -->
   <a href="https://github.com/callmeredzi">
-    <img src="https://github-readme-stats.vercel.app/api?username=callmeredzi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Statistik GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=callmeredzi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Statistik GitHub" />
   </a>
   
   <br/>
 
   <!-- Top Languages -->
   <a href="https://github.com/callmeredzi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeredzi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff3333&text_color=c9d1d9&langs_count=8" alt="Bahasa Teratas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeredzi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&langs_count=8" alt="Bahasa Teratas" />
   </a>
 
   <br/>
 
   <!-- Streak Stats -->
   <a href="https://github.com/callmeredzi">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=callmeredzi&theme=dark&hide_border=true&background=0D1117&stroke=FF3333&ring=FF3333&fire=FF6600&currStreakLabel=FF3333" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=callmeredzi&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF6600&currStreakLabel=00FF00" alt="GitHub Streak" />
   </a>
 
 </div>
@@ -147,7 +147,7 @@
 ## 📈 Grafik Aktivitas
 <div align="center">
   <a href="https://github.com/callmeredzi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=callmeredzi&bg_color=0d1117&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true" alt="Grafik Aktivitas" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=callmeredzi&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Grafik Aktivitas" />
   </a>
 </div>
 
@@ -187,7 +187,7 @@
 ## 📌 Sistem Kritis (Featured)
 <div align="center">
   <a href="https://github.com/callmeredzi/callmeredzi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=callmeredzi&repo=callmeredzi&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9" alt="Profile Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=callmeredzi&repo=callmeredzi&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="Profile Repo" />
   </a>
 </div>
 
