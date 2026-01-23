@@ -14,7 +14,7 @@
   <img src="assets/img/logo.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #ff3333; box-shadow: 0 0 25px rgba(255, 51, 51, 0.4);" alt="Hedwig Adityas Logo" />
 
   <h1 style="font-size: 2.5em; margin-bottom: 0;">Hedwig Adityas. <small style="font-size: 0.5em; color: #8b949e;">A.Md.Kom</small></h1>
-  <h3 style="color: #6e7681; margin-top: 0;">Jurusan Komputerisasi Akuntansi</h3>
+  <h3 style="color: #6e7681; margin-top: 0;">Computerized Accounting</h3>
 
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
