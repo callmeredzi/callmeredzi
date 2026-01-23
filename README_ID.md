@@ -122,23 +122,23 @@
 
 <div align="center">
   
-  <!-- GitHub Activity -->
+  <!-- GitHub Stats -->
   <a href="https://github.com/callmeredzi">
-    <img src="https://github-readme-stats.vercel.app/api?username=callmeredzi&show_icons=true&theme=refined&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Statistik GitHub Redzi" />
+    <img src="https://github-readme-stats.vercel.app/api?username=callmeredzi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Statistik GitHub" />
   </a>
   
   <br/>
 
-  <!-- Language Distribution -->
+  <!-- Top Languages -->
   <a href="https://github.com/callmeredzi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeredzi&layout=compact&theme=refined&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&langs_count=8" alt="Bahasa Pemrograman Teratas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeredzi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&langs_count=8" alt="Bahasa Teratas" />
   </a>
 
   <br/>
 
   <!-- Streak Stats -->
   <a href="https://github.com/callmeredzi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmeredzi&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=callmeredzi&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF6600&currStreakLabel=00FF00" alt="GitHub Streak" />
   </a>
 
 </div>
@@ -154,8 +154,14 @@
 <!-- Animated Contribution Graph -->
 ## 🐍 Progres Pelatihan Neural
 <div align="center">
-  <img src="https://github.com/callmeredzi/callmeredzi/raw/output/github-contribution-grid-snake.svg" alt="Animasi Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/callmeredzi/callmeredzi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/callmeredzi/callmeredzi/output/github-contribution-grid-snake.svg" />
+    <img alt="Animasi Snake" src="https://raw.githubusercontent.com/callmeredzi/callmeredzi/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+
+> ⚠️ *Jalankan workflow `Generate Snake Animation` manual di tab Actions untuk generate*
 
 ---
 
@@ -181,7 +187,7 @@
 ## 📌 Sistem Kritis (Featured)
 <div align="center">
   <a href="https://github.com/callmeredzi/callmeredzi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=callmeredzi&repo=callmeredzi&theme=refined&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="Logika Profil" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=callmeredzi&repo=callmeredzi&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="Profile Repo" />
   </a>
 </div>
 
