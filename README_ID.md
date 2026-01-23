@@ -190,11 +190,12 @@
 
 ---
 
-<!-- Security & Hardware Intel -->
+<!-- Software Tools -->
 <div align="center">
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-Fish%2FZsh-black?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware-Battlestation-gray?style=flat-square&logo=pcgamingwiki&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
 </div>
 
 ---
