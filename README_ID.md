@@ -182,11 +182,10 @@
 ---
 
 <!-- High-Priority Repositories -->
-## 📌 Sistem Kritis (Featured)
+## 💻 Sistem Saya
 <div align="center">
-  <a href="https://github.com/callmeredzi/callmeredzi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=callmeredzi&repo=callmeredzi&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="Profile Repo" />
-  </a>
+  <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ---
@@ -211,18 +210,17 @@
 
 <!-- Footer & Credentials -->
 <div align="center">
-  <img src="https://img.shields.io/badge/SEO-Rank%20A%2B-success?style=flat-square&logo=google-search-console&logoColor=white" />
-  <img src="https://img.shields.io/badge/Performa-Lighthouse%20100-success?style=flat-square&logo=lighthouse&logoColor=white" />
   
-  <br/>
-  <br/>
-  
-  <!-- "Buy Me A Coffee" Placeholder -->
-  <a href="https://www.buymeacoffee.com/callmeredzi">
-    <img src="https://img.shields.io/badge/Dukung-Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <!-- Sponsor -->
+  <a href="https://teer.id/callmeredzi">
+    <img src="https://img.shields.io/badge/Trakteer-Dukung%20Saya-FF3333?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sociabuzz.com/redzi">
+    <img src="https://img.shields.io/badge/Sociabuzz-Dukung%20Saya-FF6600?style=for-the-badge&logo=patreon&logoColor=white" />
   </a>
   
   <p style="margin-top: 20px; font-size: 0.8em; color: #8b949e;">
-    &copy; 2026 Hedwig Adityas | Arsitektur Sistem Tingkat Lanjut
+    &copy; 2026 Hedwig Adityas | Software Engineering
   </p>
 </div>
