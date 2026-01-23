@@ -1,0 +1,43 @@
+name: Security Audit
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  schedule:
+    - cron: '0 0 * * 0' # Weekly
+
+jobs:
+  secret-scan:
+    runs-on: ubuntu-latest
+    name: Secret Scan
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: false
+
+  link-checker:
+    runs-on: ubuntu-latest
+    name: Link Validator
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          args: --verbose --no-progress './**/*.md' './**/*.html'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  lint-workflows:
+    runs-on: ubuntu-latest
+    name: Workflow Lint
+    steps:
+      - uses: actions/checkout@v3
+      - uses: reviewdog/action-actionlint@v1
+        with:
+          fail_on_error: true

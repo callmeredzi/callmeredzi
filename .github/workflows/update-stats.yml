@@ -1,0 +1,40 @@
+name: Stats Update
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # 6h interval
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    name: Generate Cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anuraghazra/github-readme-stats@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  streak:
+    runs-on: ubuntu-latest
+    name: Streak Counter
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "Dynamic badge via github-readme-streak-stats"
+
+  activity:
+    runs-on: ubuntu-latest
+    name: Activity Graph
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Ashutosh00710/github-readme-activity-graph@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
