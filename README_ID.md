@@ -161,8 +161,6 @@
   </picture>
 </div>
 
-> ⚠️ *Jalankan workflow `Generate Snake Animation` manual di tab Actions untuk generate*
-
 ---
 
 <!-- Knowledge Stream (Blog) -->
