@@ -57,19 +57,21 @@ def generate_svg(progress_count):
         next_row = STACK_ROWS - 1 - (progress_count % STACK_ROWS)
         px = 120 + next_col * (BARANG_SIZE + 8) - 8
         py = 32 + next_row * (BARANG_SIZE + 8) - 8
-        svg.append(f'<g>
-            <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-                <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-                <feMerge>
-                    <feMergeNode in="coloredBlur"/>
-                    <feMergeNode in="SourceGraphic"/>
-                </feMerge>
-            </filter>
-            <image xlink:href="assets/img/{mood}" x="{px}" y="{py}" width="{PIXEL_SIZE}" height="{PIXEL_SIZE}" filter="url(#glow)">
-                <animate attributeName="x" values="{px};{px+16};{px}" dur="2s" repeatCount="indefinite"/>
-                <animate attributeName="y" values="{py};{py-8};{py}" dur="1.5s" repeatCount="indefinite"/>
-            </image>
-        </g>')
+        svg.append(f'''
+<g>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+        <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+    </filter>
+    <image xlink:href="assets/img/{mood}" x="{px}" y="{py}" width="{PIXEL_SIZE}" height="{PIXEL_SIZE}" filter="url(#glow)">
+        <animate attributeName="x" values="{px};{px+16};{px}" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="{py};{py-8};{py}" dur="1.5s" repeatCount="indefinite"/>
+    </image>
+</g>
+''')
 
         svg.append('</svg>')
         return "\n".join(svg)
