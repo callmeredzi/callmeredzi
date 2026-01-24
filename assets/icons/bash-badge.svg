@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="28" viewBox="0 0 80 28">
+  <rect width="80" height="28" rx="3" fill="#4EAA25"/>
+  <g transform="translate(6, 4) scale(0.83)" fill="#FFFFFF">
+    <path d="M21.038.793l-1.736 7.947-1.5-1.912-4.222 4.226-3.26-3.259 4.222-4.227-1.91-1.5zm-7.962 12.834c-.018 0-.036-.005-.053-.005h-.049c-.022 0-.039.004-.06.006l-8.789 4.758.029.124a2.023 2.023 0 0 0 1.98 1.604c.223 0 .439-.037.644-.103l3.578-1.153a.992.992 0 0 1 .3-.05c.177 0 .346.05.494.132l3.273 1.793a2.012 2.012 0 0 0 1.003.269 2.024 2.024 0 0 0 1.908-2.707l-1.024-3.129a.988.988 0 0 1 .042-.663l1.453-3.315-4.73.44z"/>
+  </g>
+  <text x="50" y="19" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Bash</text>
+</svg>

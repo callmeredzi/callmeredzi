@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="28" viewBox="0 0 110 28">
+  <rect width="110" height="28" rx="3" fill="#000000"/>
+  <g transform="translate(6, 4) scale(0.83)" fill="#FFFFFF">
+    <path d="M0 0h24v24H0V0zm2.667 2.667v18.667h18.667V2.667H2.667zm1.333 16h6.667v1.333H4v-1.333zM7.787 8l.88.88L6.44 11.107l2.227 2.226-.88.88L4.56 11.107 7.787 8zm3.107 3.773h4.427v1.333h-4.427v-1.333z"/>
+  </g>
+  <text x="65" y="19" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">JetBrains</text>
+</svg>

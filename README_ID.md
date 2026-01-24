@@ -18,7 +18,7 @@
 
   <!-- Dynamic Typing Effect (Versi Indo) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Arsitek+Sistem+Web;Ethical+Hacking+%26+Riset+Keamanan;Analisis+Data+%26+Visualisasi;Machine+Learning+Engineering;Otomatisasi+Google+Apps+Script" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Fullstack+Web+Development;Ethical+Hacking+Web;Data+Analysis;Machine+Learning+Engineering;GAS+Development" alt="Typing Effect" />
   </a>
 
   <!-- Social & Security Badges -->
@@ -40,80 +40,73 @@
 
 <!-- Professional Introduction -->
 <h3 align="center">
-  <i>"Merancang ekosistem digital yang aman, cerdas, dan otonom."</i>
+  <i>"Saya adalah Junior Software Engineer — Masih belajar, terus membangun."</i>
 </h3>
+
+<!-- Pixel Mascot -->
+
+<!-- Pixel Mascot Interaktif -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/callmeredzi/callmeredzi/output/pixel-mascot.svg" alt="Pixel Mascot Animation" width="500" />
+  <br/>
+  <sub>
+    <b>Pixel mascot interaktif:</b> animasi real-time, barang diangkat & ditaruh, progress bar, background dinamis, shadow, tooltip, dan animasi smooth!<br/>
+    <i>Ditenagai oleh Python & GitHub Actions</i>
+  </sub>
+</div>
 
 <br />
 
-<!-- The Pentagon of Power: Technical Arsenal -->
-## ⚡ Arsenal Teknis
+<!-- Bahasa, Library & Framework -->
+## 💻 Bahasa, Library & Framework
 
 <div align="center">
 
-<!-- Tech Stack Visualization -->
-<img src="assets/img/tech-stack.svg" alt="Tech Stack" width="100%" />
+### 🔤 Bahasa Pemrograman
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" />
+  <img src="assets/icons/css3-badge.svg" alt="CSS3" height="35" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="35" />
+</p>
 
-</div>
+### 📚 Library
+<p>
+  <!-- Data Science -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="35" />
+  <!-- ML -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" />
+  <!-- Web Scraping -->
+  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
+  <!-- Security -->
+  <img src="https://img.shields.io/badge/Scapy-2C5BB4?style=for-the-badge&logo=wireshark&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Cryptography-3776AB?style=for-the-badge&logo=letsencrypt&logoColor=white" height="35" />
+</p>
 
-<details>
-<summary>📋 <b>Tampilan Badge Detail</b></summary>
-<br/>
-
-<div align="center">
-
-<!-- Pillar 1: Web Development -->
-### 1. Arsitektur Web (Full Spectrum)
+### 🛠️ Framework
 <p>
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Python-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35" />
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JS-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JS-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JS-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Desain-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
-<!-- Pillar 2: Ethical Hacking -->
-### 2. Keamanan Siber & Hacking
-<p>
-  <img src="https://img.shields.io/badge/Custom-Exploit%20Dev-FF0000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ops-Bash%20Automation-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Standar-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
-
-<!-- Pillar 3: Data Science -->
-### 3. Intelijen Data
-<p>
-  <img src="https://img.shields.io/badge/Analisis-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matematika-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Query-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visualisasi-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-<!-- Pillar 4: Machine Learning -->
-### 4. Neural Networks & ML
-<p>
-  <img src="https://img.shields.io/badge/Framework-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lib-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algo-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-<!-- Pillar 5: Google Ecosystem -->
-### 5. Otomatisasi Workspace
-<p>
-  <img src="https://img.shields.io/badge/Platform-Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-Workspace-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="35" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="35" />
 </p>
 
 </div>
-
-</details>
 
 ---
 
@@ -151,6 +144,7 @@
   </a>
 </div>
 
+
 <!-- Animated Contribution Graph -->
 ## 🐍 Progres Pelatihan Neural
 <div align="center">
@@ -181,21 +175,24 @@
 
 ---
 
-<!-- High-Priority Repositories -->
-## 💻 Sistem Saya
+<!-- Sistem -->
+## 🖥️ Sistem
+
+### Sistem Operasi
 <div align="center">
-  <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="35" />
+  <img src="assets/icons/windows-badge.svg" alt="Windows" height="35" />
 </div>
 
----
-
-<!-- Software Tools -->
+### Software & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img src="assets/icons/vscode-badge.svg" alt="VS Code" height="35" />
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" height="35" />
+  <img src="assets/icons/excel-badge.svg" alt="Excel" height="35" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="35" />
 </div>
 
 ---
@@ -205,6 +202,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+
+---
+
+<!-- My Code Aquarium -->
+## 🐟 Akuarium Kode Saya
+<div align="center">
+  <img src="https://raw.githubusercontent.com/callmeredzi/callmeredzi/output/aquarium.svg" alt="Code Aquarium" width="100%" />
 </div>
 
 ---

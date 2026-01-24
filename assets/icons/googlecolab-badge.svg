@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="28" viewBox="0 0 130 28">
+  <rect width="130" height="28" rx="3" fill="#F9AB00"/>
+  <g transform="translate(6, 4) scale(0.83)" fill="#000000">
+    <path d="M16.941 4.976a7.033 7.033 0 0 0-4.93 2.064 7.033 7.033 0 0 0-.124 9.807l2.395-2.395a3.646 3.646 0 0 1 5.15-5.148l2.397-2.399a7.033 7.033 0 0 0-4.888-1.93zM7.058 4.976A7.033 7.033 0 0 0 2.17 6.906a7.033 7.033 0 0 0 0 9.94 7.033 7.033 0 0 0 4.889 1.929 7.033 7.033 0 0 0 4.93-2.064l-2.395-2.395a3.646 3.646 0 0 1-5.15-5.148L2.046 6.77c1.304-1.253 2.999-1.973 4.916-1.994h.095zm9.883 4.8a3.646 3.646 0 1 0 0 7.292 3.646 3.646 0 0 0 0-7.292z"/>
+  </g>
+  <text x="78" y="19" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="bold" fill="#000000" text-anchor="middle">Google Colab</text>
+</svg>

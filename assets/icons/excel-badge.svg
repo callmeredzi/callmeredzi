@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="28" viewBox="0 0 80 28">
+  <rect width="80" height="28" rx="3" fill="#217346"/>
+  <g transform="translate(6, 4) scale(0.83)" fill="#FFFFFF">
+    <path d="M23 1.5q.41 0 .7.3.3.29.3.7v19q0 .41-.3.7-.29.3-.7.3H7q-.41 0-.7-.3-.3-.29-.3-.7V18H1q-.41 0-.7-.3-.3-.29-.3-.7V7q0-.41.3-.7Q.58 6 1 6h5V2.5q0-.41.3-.7.29-.3.7-.3zM6 13.28l1.42 2.66h2.14l-2.38-3.87 2.32-3.8H7.46L6 10.93l-1.46-2.66H2.32l2.32 3.8-2.38 3.87h2.14zm5 8.22h11v-4H11zm0-6h11v-4H11zm0-6h11v-4H11z"/>
+  </g>
+  <text x="50" y="19" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Excel</text>
+</svg>
