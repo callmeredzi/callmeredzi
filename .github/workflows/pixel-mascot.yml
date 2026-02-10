@@ -1,5 +1,8 @@
 name: Generate Pixel Mascot
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 * * * *" # Every 1 hour
