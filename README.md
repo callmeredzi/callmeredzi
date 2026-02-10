@@ -206,14 +206,6 @@
 
 ---
 
-<!-- My Code Aquarium -->
-## 🐟 My Code Aquarium
-<div align="center">
-  <img src="https://raw.githubusercontent.com/callmeredzi/callmeredzi/output/aquarium.svg" alt="Code Aquarium" width="100%" />
-</div>
-
----
-
 <!-- Footer & Credentials -->
 <div align="center">
   
