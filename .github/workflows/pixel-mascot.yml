@@ -38,8 +38,30 @@ jobs:
           # Baca generated HTML embed
           EMBED_CONTENT=$(cat pixel-mascot-embed.html)
 
-          # Update README.md - replace content between markers
-          perl -i -pe "BEGIN{undef $/;} s|<!-- PIXEL_MASCOT_START -->.*<!-- PIXEL_MASCOT_END -->|<!-- PIXEL_MASCOT_START -->$ENV{EMBED_CONTENT}<!-- PIXEL_MASCOT_END -->|gs" README.md
+          # Use Python untuk replace - lebih reliable untuk multi-line content
+          python3 << 'EOF'
+import os
+
+embed_content = os.environ.get('EMBED_CONTENT', '')
+
+with open('README.md', 'r') as f:
+    content = f.read()
+
+# Replace content between markers
+start_marker = '<!-- PIXEL_MASCOT_START -->'
+end_marker = '<!-- PIXEL_MASCOT_END -->'
+
+start_idx = content.find(start_marker)
+end_idx = content.find(end_marker)
+
+if start_idx != -1 and end_idx != -1:
+    new_content = content[:start_idx] + start_marker + '\n' + embed_content + '\n' + end_marker + content[end_idx + len(end_marker):]
+    with open('README.md', 'w') as f:
+        f.write(new_content)
+    print("README updated successfully")
+else:
+    print("Markers not found in README")
+EOF
 
       - name: Commit changes
         run: |
