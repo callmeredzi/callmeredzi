@@ -103,14 +103,14 @@
   
   <!-- GitHub Stats -->
   <a href="https://github.com/callmeredzi">
-    <img src="https://github-readme-stats.vercel.app/api?username=callmeredzi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=callmeredzi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
-  
+
   <br/>
 
   <!-- Top Languages -->
   <a href="https://github.com/callmeredzi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeredzi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff3333&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=callmeredzi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff3333&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
   </a>
 
   <br/>
