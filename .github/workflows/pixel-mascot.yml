@@ -32,20 +32,19 @@ jobs:
           USERNAME: callmeredzi
         run: |
           python src/scripts/pixel_mascot_anim.py
-          cp pixel-mascot-anim.svg pixel-mascot.svg
-          mkdir -p output
-          cp pixel-mascot.svg output/
-          cp pixel-mascot-anim.svg output/
-          # Copy assets folder untuk SVG references
-          mkdir -p output/assets/img
-          cp assets/img/Pixel-Art.svg output/assets/img/
-          cp assets/img/box-package.svg output/assets/img/
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: output
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update README with embedded SVG
+        run: |
+          # Baca generated HTML embed
+          EMBED_CONTENT=$(cat pixel-mascot-embed.html)
+
+          # Update README.md - replace content between markers
+          perl -i -pe "BEGIN{undef $/;} s|<!-- PIXEL_MASCOT_START -->.*<!-- PIXEL_MASCOT_END -->|<!-- PIXEL_MASCOT_START -->$ENV{EMBED_CONTENT}<!-- PIXEL_MASCOT_END -->|gs" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md pixel-mascot.svg
+          git diff --staged --quiet || git commit -m "chore: update pixel mascot [skip ci]"
+          git push

@@ -45,6 +45,7 @@
 
 <!-- Pixel Mascot -->
 
+<!-- PIXEL_MASCOT_START -->
 <!-- Pixel Mascot Interaktif -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/callmeredzi/callmeredzi/output/pixel-mascot.svg" alt="Pixel Mascot Animation" width="500" />
@@ -54,6 +55,7 @@
     <i>Powered by Python & GitHub Actions</i>
   </sub>
 </div>
+<!-- PIXEL_MASCOT_END -->
 
 <br />
 
