@@ -36,6 +36,10 @@ jobs:
           mkdir -p output
           cp pixel-mascot.svg output/
           cp pixel-mascot-anim.svg output/
+          # Copy assets folder untuk SVG references
+          mkdir -p output/assets/img
+          cp assets/img/Pixel-Art.svg output/assets/img/
+          cp assets/img/box-package.svg output/assets/img/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
