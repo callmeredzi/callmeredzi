@@ -14,6 +14,10 @@ STACK_COLS = 10  # Jumlah kolom barang per layar
 STACK_ROWS = 5   # Barang per kolom (stack ke atas)
 SCROLL_TRIGGER = int(STACK_COLS / 2)  # Scroll jika sudah setengah frame
 TIMEZONE = pytz.timezone('Asia/Jakarta')  # Timezone lokal
+# Absolute URL untuk assets (agar bisa dirender di GitHub README)
+ASSET_BASE_URL = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{GITHUB_USERNAME}/output/assets/img"
+MASCOT_SRC = f"{ASSET_BASE_URL}/Pixel-Art.svg"
+BOX_SRC = f"{ASSET_BASE_URL}/box-package.svg"
 
 # GraphQL query untuk mengambil data kontribusi
 def get_github_contributions():
@@ -93,7 +97,7 @@ def generate_svg(progress_count):
 
         # Barang SVG (box-package) dengan tooltip
         tooltip_text = f"Contribution #{i+1}"
-        svg.append(f'<g><title>{tooltip_text}</title><image xlink:href="assets/img/box-package.svg" x="{x}" y="{y}" width="{BARANG_SIZE}" height="{BARANG_SIZE}" /></g>')
+        svg.append(f'<g><title>{tooltip_text}</title><image xlink:href="{BOX_SRC}" x="{x}" y="{y}" width="{BARANG_SIZE}" height="{BARANG_SIZE}" /></g>')
 
     # Mascot - Pixel-Art.svg
     next_col = (progress_count // STACK_ROWS)
@@ -110,7 +114,7 @@ def generate_svg(progress_count):
             <feMergeNode in="SourceGraphic"/>
         </feMerge>
     </filter>
-    <image xlink:href="assets/img/Pixel-Art.svg" x="{px}" y="{py}" width="{PIXEL_SIZE}" height="{PIXEL_SIZE}" filter="url(#glow)">
+    <image xlink:href="{MASCOT_SRC}" x="{px}" y="{py}" width="{PIXEL_SIZE}" height="{PIXEL_SIZE}" filter="url(#glow)">
         <animate attributeName="x" values="{px};{px+16};{px}" dur="2s" repeatCount="indefinite"/>
         <animate attributeName="y" values="{py};{py-8};{py}" dur="1.5s" repeatCount="indefinite"/>
     </image>
