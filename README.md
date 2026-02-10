@@ -45,17 +45,7 @@
 
 <!-- Pixel Mascot -->
 
-<!-- PIXEL_MASCOT_START -->
-<!-- Pixel Mascot Interaktif -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/callmeredzi/callmeredzi/output/pixel-mascot.svg" alt="Pixel Mascot Animation" width="500" />
-  <br/>
-  <sub>
-    <b>Pixel mascot interaktif:</b> animasi real-time, barang diangkat & ditaruh, progress bar, background dinamis, shadow, tooltip, dan animasi smooth!<br/>
-    <i>Powered by Python & GitHub Actions</i>
-  </sub>
-</div>
-<!-- PIXEL_MASCOT_END -->
+<!-- PIXEL_MASCOT_START -->{EMBED_CONTENT}<!-- PIXEL_MASCOT_END -->
 
 <br />
 
