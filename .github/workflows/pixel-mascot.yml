@@ -33,12 +33,15 @@ jobs:
         run: |
           python src/scripts/pixel_mascot_anim.py
           cp pixel-mascot-anim.svg pixel-mascot.svg
+          mkdir -p output
+          cp pixel-mascot.svg output/
+          cp pixel-mascot-anim.svg output/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: .
+          build_dir: output
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
