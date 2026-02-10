@@ -43,20 +43,6 @@
   <i>"I am a Junior Software Engineer — Still learning, always building."</i>
 </h3>
 
-<!-- Pixel Mascot -->
-
-<!-- Pixel Mascot Interaktif -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/callmeredzi/callmeredzi/output/pixel-mascot.svg" alt="Pixel Mascot Animation" width="500" />
-  <br/>
-  <sub>
-    <b>Pixel mascot interaktif:</b> animasi real-time, barang diangkat & ditaruh, progress bar, background dinamis, shadow, tooltip, dan animasi smooth!<br/>
-    <i>Powered by Python & GitHub Actions</i>
-  </sub>
-</div>
-
-<br />
-
 <!-- Languages, Libraries & Frameworks -->
 ## 💻 Languages, Libraries & Frameworks
 
