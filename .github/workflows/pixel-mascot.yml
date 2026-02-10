@@ -38,17 +38,16 @@ jobs:
           # Baca generated HTML embed
           EMBED_CONTENT=$(cat pixel-mascot-embed.html)
 
-          # Use Python untuk replace - lebih reliable untuk multi-line content
-          # Gunakan << EOF (bukan << 'EOF') agar environment variable bisa di-expand
-          python3 << EOF
+          # Tulis Python script ke file untuk menghindari heredoc issues
+          cat > update_readme.py << 'PYEOF'
 import os
+import sys
 
 embed_content = os.environ.get('EMBED_CONTENT', '')
 
 with open('README.md', 'r') as f:
     content = f.read()
 
-# Replace content between markers
 start_marker = '<!-- PIXEL_MASCOT_START -->'
 end_marker = '<!-- PIXEL_MASCOT_END -->'
 
@@ -62,7 +61,11 @@ if start_idx != -1 and end_idx != -1:
     print("README updated successfully")
 else:
     print("Markers not found in README")
-EOF
+    sys.exit(1)
+PYEOF
+
+          # Jalankan script dengan EMBED_CONTENT sebagai environment variable
+          EMBED_CONTENT="$EMBED_CONTENT" python3 update_readme.py
 
       - name: Commit changes
         run: |
