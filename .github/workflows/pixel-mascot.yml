@@ -39,7 +39,8 @@ jobs:
           EMBED_CONTENT=$(cat pixel-mascot-embed.html)
 
           # Use Python untuk replace - lebih reliable untuk multi-line content
-          python3 << 'EOF'
+          # Gunakan << EOF (bukan << 'EOF') agar environment variable bisa di-expand
+          python3 << EOF
 import os
 
 embed_content = os.environ.get('EMBED_CONTENT', '')
