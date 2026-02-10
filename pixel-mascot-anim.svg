@@ -1,0 +1,83 @@
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#181c2a"/><stop offset="100%" stop-color="#2a2d3a"/></linearGradient>
+<rect width="100%" height="100%" fill="url(#bgGrad)"/>
+<rect x="40" y="12" width="434" height="12" rx="6" fill="#58a6ff" opacity="0.3"/>
+<text x="400" y="22" text-anchor="middle" fill="#58a6ff" font-family="monospace" font-size="14">Contributions: 31</text>
+<rect x="122" y="200" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #1</title><image xlink:href="assets/img/box-package.svg" x="120" y="192" width="32" height="32" /></g>
+<rect x="122" y="160" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #2</title><image xlink:href="assets/img/box-package.svg" x="120" y="152" width="32" height="32" /></g>
+<rect x="122" y="120" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #3</title><image xlink:href="assets/img/box-package.svg" x="120" y="112" width="32" height="32" /></g>
+<rect x="122" y="80" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #4</title><image xlink:href="assets/img/box-package.svg" x="120" y="72" width="32" height="32" /></g>
+<rect x="122" y="40" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #5</title><image xlink:href="assets/img/box-package.svg" x="120" y="32" width="32" height="32" /></g>
+<rect x="162" y="200" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #6</title><image xlink:href="assets/img/box-package.svg" x="160" y="192" width="32" height="32" /></g>
+<rect x="162" y="160" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #7</title><image xlink:href="assets/img/box-package.svg" x="160" y="152" width="32" height="32" /></g>
+<rect x="162" y="120" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #8</title><image xlink:href="assets/img/box-package.svg" x="160" y="112" width="32" height="32" /></g>
+<rect x="162" y="80" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #9</title><image xlink:href="assets/img/box-package.svg" x="160" y="72" width="32" height="32" /></g>
+<rect x="162" y="40" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #10</title><image xlink:href="assets/img/box-package.svg" x="160" y="32" width="32" height="32" /></g>
+<rect x="202" y="200" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #11</title><image xlink:href="assets/img/box-package.svg" x="200" y="192" width="32" height="32" /></g>
+<rect x="202" y="160" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #12</title><image xlink:href="assets/img/box-package.svg" x="200" y="152" width="32" height="32" /></g>
+<rect x="202" y="120" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #13</title><image xlink:href="assets/img/box-package.svg" x="200" y="112" width="32" height="32" /></g>
+<rect x="202" y="80" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #14</title><image xlink:href="assets/img/box-package.svg" x="200" y="72" width="32" height="32" /></g>
+<rect x="202" y="40" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #15</title><image xlink:href="assets/img/box-package.svg" x="200" y="32" width="32" height="32" /></g>
+<rect x="242" y="200" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #16</title><image xlink:href="assets/img/box-package.svg" x="240" y="192" width="32" height="32" /></g>
+<rect x="242" y="160" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #17</title><image xlink:href="assets/img/box-package.svg" x="240" y="152" width="32" height="32" /></g>
+<rect x="242" y="120" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #18</title><image xlink:href="assets/img/box-package.svg" x="240" y="112" width="32" height="32" /></g>
+<rect x="242" y="80" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #19</title><image xlink:href="assets/img/box-package.svg" x="240" y="72" width="32" height="32" /></g>
+<rect x="242" y="40" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #20</title><image xlink:href="assets/img/box-package.svg" x="240" y="32" width="32" height="32" /></g>
+<rect x="282" y="200" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #21</title><image xlink:href="assets/img/box-package.svg" x="280" y="192" width="32" height="32" /></g>
+<rect x="282" y="160" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #22</title><image xlink:href="assets/img/box-package.svg" x="280" y="152" width="32" height="32" /></g>
+<rect x="282" y="120" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #23</title><image xlink:href="assets/img/box-package.svg" x="280" y="112" width="32" height="32" /></g>
+<rect x="282" y="80" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #24</title><image xlink:href="assets/img/box-package.svg" x="280" y="72" width="32" height="32" /></g>
+<rect x="282" y="40" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #25</title><image xlink:href="assets/img/box-package.svg" x="280" y="32" width="32" height="32" /></g>
+<rect x="322" y="200" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #26</title><image xlink:href="assets/img/box-package.svg" x="320" y="192" width="32" height="32" /></g>
+<rect x="322" y="160" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #27</title><image xlink:href="assets/img/box-package.svg" x="320" y="152" width="32" height="32" /></g>
+<rect x="322" y="120" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #28</title><image xlink:href="assets/img/box-package.svg" x="320" y="112" width="32" height="32" /></g>
+<rect x="322" y="80" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #29</title><image xlink:href="assets/img/box-package.svg" x="320" y="72" width="32" height="32" /></g>
+<rect x="322" y="40" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #30</title><image xlink:href="assets/img/box-package.svg" x="320" y="32" width="32" height="32" /></g>
+<rect x="362" y="200" width="32" height="8" fill="#000" opacity="0.15" rx="4"/>
+<g><title>Contribution #31</title><image xlink:href="assets/img/box-package.svg" x="360" y="192" width="32" height="32" /></g>
+
+<g>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+        <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+    </filter>
+    <image xlink:href="assets/img/Pixel-Art.svg" x="352" y="144" width="48" height="48" filter="url(#glow)">
+        <animate attributeName="x" values="352;368;352" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="y" values="144;136;144" dur="1.5s" repeatCount="indefinite"/>
+    </image>
+</g>
+
+</svg>
