@@ -116,7 +116,7 @@
 ## 📈 Activity Graph
 <div align="center">
   <a href="https://github.com/callmeredzi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=callmeredzi&bg_color=0d1117&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=callmeredzi&bg_color=transparent&color=ff3333&line=ff3333&point=ff3333&area=true&hide_border=true&radius=8" alt="Activity Graph" />
   </a>
 </div>
 
