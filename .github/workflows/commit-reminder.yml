@@ -1,0 +1,40 @@
+name: Commit Reminder
+
+on:
+  schedule:
+    - cron: '0 17 * * *' # Every day at 12:00 AM WIB (5 PM UTC)
+  workflow_dispatch:
+
+jobs:
+  reminder:
+    runs-on: ubuntu-latest
+    name: Daily Commit Check
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check today's commits
+        id: check
+        run: |
+          TODAY_COMMITS=$(git log --oneline --since="24 hours ago" | wc -l)
+          echo "count=$TODAY_COMMITS" >> $GITHUB_OUTPUT
+          echo "📊 Commits in last 24h: **$TODAY_COMMITS**" >> $GITHUB_STEP_SUMMARY
+
+      - name: Send reminder
+        if: steps.check.outputs.count == 0
+        run: |
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "---" >> $GITHUB_STEP_SUMMARY
+          echo "## ⚠️ Daily Commit Reminder!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Kamu **belum commit hari ini**! 🚨" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "🎯 Target: minimal **1 commit setiap hari**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "💡 Ide:" >> $GITHUB_STEP_SUMMARY
+          echo "- Update README atau dokumentasi" >> $GITHUB_STEP_SUMMARY
+          echo "- Fix bug kecil" >> $GITHUB_STEP_SUMMARY
+          echo "- Buat project baru" >> $GITHUB_STEP_SUMMARY
+          echo "- Refactor code yang ada" >> $GITHUB_STEP_SUMMARY
+          exit 1
