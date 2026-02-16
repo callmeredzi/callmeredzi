@@ -136,10 +136,77 @@
 <!-- WakaTime Stats -->
 ## ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.44%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 37 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
 ```text
-⌛ Waiting for WakaTime data...
-   Configure WAKATIME_API_KEY secret to enable
+🌞 Morning                15 commits          ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+🌆 Daytime                17 commits          ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+🌃 Evening                26 commits          ███████████░░░░░░░░░░░░░░   44.83 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Tuesday                  21 commits          █████████░░░░░░░░░░░░░░░░   36.21 % 
+Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Friday                   20 commits          █████████░░░░░░░░░░░░░░░░   34.48 % 
+Saturday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/callmeredzi/callmeredzi/main/assets/bar_graph.png)
+
+
+ Last Updated on 16/02/2026 07:06:21 UTC
 <!--END_SECTION:waka-->
 
 ---
