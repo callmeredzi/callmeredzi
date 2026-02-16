@@ -1,13 +1,3 @@
-<!-- Language Navigation -->
-<div align="right">
-  <a href="README.md" title="English">
-    <img src="https://img.shields.io/badge/Lang-EN-blue?style=for-the-badge&logo=us" alt="English" />
-  </a>
-  <a href="README_ID.md" title="Bahasa Indonesia">
-    <img src="https://img.shields.io/badge/Lang-ID-gray?style=for-the-badge&logo=indonesia" alt="Bahasa Indonesia" />
-  </a>
-</div>
-
 <div align="center">
   
   <!-- Identity Core -->
@@ -18,7 +8,7 @@
 
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Fullstack+Web+Development;Ethical+Hacking+Web;Data+Analysis;Machine+Learning+Engineering;GAS+Development" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Fullstack+Web+Development;Ethical+Hacking+Web;Data+Analysis;Machine+Learning+Engineering" alt="Typing Effect" />
   </a>
 
   <!-- Social & Security Badges -->
@@ -143,13 +133,6 @@
 
 ---
 
-<!-- Knowledge Stream (Blog) -->
-## ✍️ Knowledge Stream
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <!-- WakaTime Stats -->
 ## ⏱️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -176,7 +159,6 @@
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" height="35" />
   <img src="assets/icons/excel-badge.svg" alt="Excel" height="35" />
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="35" />
 </div>
@@ -185,9 +167,38 @@
 
 <!-- Certifications -->
 ## 🏆 Certifications
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/1eVEolaOXGBMd9oRYqO7aRvJQ6LVpIgxt/view?usp=sharing">
+        <img src="https://img.shields.io/badge/Machine_Learning-Bangkit_Academy-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Machine Learning" />
+      </a>
+      <br /><br />
+      <a href="https://drive.google.com/file/d/1eVEolaOXGBMd9oRYqO7aRvJQ6LVpIgxt/view?usp=sharing">
+        <img src="assets/img/Machine Learning.png" width="400" alt="Certificate Machine Learning" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/1zyo_LCpy9v_An2PWXxUirV_YSOQsGSiq/view?usp=drive_link">
+        <img src="https://img.shields.io/badge/Data_Analyst_Python-Dicoding-1A73E8?style=for-the-badge&logo=python&logoColor=white" alt="Data Analyst Python" />
+      </a>
+      <br /><br />
+      <a href="https://drive.google.com/file/d/1zyo_LCpy9v_An2PWXxUirV_YSOQsGSiq/view?usp=drive_link">
+        <img src="assets/img/Data Analyst Python.png" width="400" alt="Certificate Data Analyst Python" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<a href="https://drive.google.com/drive/folders/16mAbw_HrHVhQWKiZn_tJDtBZOHH0u5Ds?usp=drive_link">
+  <img src="https://img.shields.io/badge/Click_to_view_all_certificates-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="View All Certificates" />
+</a>
+
 </div>
 
 ---
